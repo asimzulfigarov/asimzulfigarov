@@ -4,10 +4,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Riyad%20Mehdiyev&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=58&descColor=c9d1f5" width="100%"/>
 
 <!-- Social Badges -->
-<a href="https://www.linkedin.com/in/riyad-mehdiyev/">
+<a href="https://www.linkedin.com/in/asimzulfigarov/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/RiyadMehdi7">
+<a href="https://github.com/asimzulfigarov">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:riyad@example.com">

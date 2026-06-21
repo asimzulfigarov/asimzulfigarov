@@ -1,22 +1,16 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Riyad%20Mehdiyev&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=58&descColor=c9d1f5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Asim%20Zulfigarov&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descColor=c9b8ff" width="100%"/>
 
-<!-- Social Badges -->
-<a href="https://www.linkedin.com/in/asimzulfigarov/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 <a href="https://github.com/asimzulfigarov">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:riyad@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://www.linkedin.com/in/asimzulfigarov/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=RiyadMehdi7&style=flat-square&color=6a11cb" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=asimzulfigarov&style=flat-square&color=302b63" alt="Profile Views"/>
 
 </div>
 
@@ -24,16 +18,17 @@
 
 ## 🧑‍💻 About Me
 
-```python
-{
-  "Location":     "Stockholm, Sweden",
-  "Current Role": "Data Scientist @ Kapital Bank",
-  "Focus Areas":  ["Machine Learning", "Causal Inference", "AI Agents"],
-  "Passion":      "Building data-driven solutions that create real-world impact"
-}
+```cpp
+class Asim {
+  std::string role     = "Software Engineer";
+  std::vector<std::string> interests = {
+    "Autonomous Driving",
+    "Game Development",
+    "Graphics Programming"
+  };
+  std::string motto = "Building fast, clean systems that push the limits of what software can do.";
+};
 ```
-
-I specialize in bridging the gap between complex ML research and production systems. My work spans from **temporal survival modeling** and **causal inference** to building **AI agent tooling** that makes multi-agent collaboration seamless.
 
 ---
 
@@ -41,24 +36,14 @@ I specialize in bridging the gap between complex ML research and production syst
 
 **Languages**
 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**ML & Data Science**
+**Tools & Frameworks**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Web & Infrastructure**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 
 ---
 
@@ -67,34 +52,29 @@ I specialize in bridging the gap between complex ML research and production syst
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/RiyadMehdi7/AgentSync-MCP">AgentSync MCP</a></h3>
-      <p>Real-time coordination for multi-agent development — file locking, conflict detection, and AI-powered merge strategies via MCP.</p>
+      <h3>🤖 <a href="https://github.com/asimzulfigarov/ROS2_Course">ROS2 Course</a></h3>
+      <p>Hands-on exploration of ROS2 for robotics and autonomous systems development.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MCP-6a11cb?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>⏱️ <a href="https://github.com/RiyadMehdi7/CHRONOS">CHRONOS</a></h3>
-      <p>Causal-reinforcement framework for employee churn prediction with temporal survival modeling & budget-aware policy learning.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/DeepSurv-orange?style=flat-square"/>
+      <h3>🧟 ZombieTag</h3>
+      <p>A fast-paced multiplayer tag game built in C++ with custom game logic and simulation.</p>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/RiyadMehdi7/DataAnalityticsByRiyad">DataAnalyticsByRiyad</a></h3>
-      <p>Collection of data science projects: clustering, regression, classification on real-world datasets.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ML-brightgreen?style=flat-square"/>
+      <h3>🎮 <a href="https://github.com/asimzulfigarov/UE5_Course">UE5 Course</a></h3>
+      <p>Deep dive into Unreal Engine 5 — building games and interactive experiences in C++.</p>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>👁️ <a href="https://github.com/RiyadMehdi7/ChurnVision">ChurnVision</a></h3>
-      <p>Admin platform for churn analytics with real-time dashboards and predictive modeling.</p>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <h3>🖥️ <a href="https://github.com/asimzulfigarov/OpenGL">OpenGL</a></h3>
+      <p>Low-level graphics programming experiments and rendering techniques using OpenGL.</p>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -105,10 +85,10 @@ I specialize in bridging the gap between complex ML research and production syst
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RiyadMehdi7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6a11cb&icon_color=2575fc&text_color=c9d1f5" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RiyadMehdi7&theme=tokyonight&hide_border=true&background=0d1117&ring=6a11cb&fire=2575fc&currStreakLabel=c9d1f5" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=asimzulfigarov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9b8ff&icon_color=c9b8ff&text_color=c9d1f5" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asimzulfigarov&theme=tokyonight&hide_border=true&background=0d1117&ring=302b63&fire=c9b8ff&currStreakLabel=c9d1f5" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyadMehdi7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6a11cb&text_color=c9d1f5" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimzulfigarov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9b8ff&text_color=c9d1f5" height="150"/>
 
 </div>
 
@@ -117,14 +97,13 @@ I specialize in bridging the gap between complex ML research and production syst
 ## 📊 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiyadMehdi7&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6a11cb&line=2575fc&point=c9d1f5"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asimzulfigarov&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c9b8ff&line=302b63&point=ffffff"/>
 </div>
 
 ---
 
 <div align="center">
-  <i>"Passionate about creating meaningful, data-driven solutions that drive value and inspire growth"</i>
+  <i>"Autonomous driving, game development, and graphics programming enthusiast."</i>
 </div>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
